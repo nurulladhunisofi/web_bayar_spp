@@ -1,0 +1,13 @@
+body{
+    background: #ECF0F3;
+}
+.border{
+    border-radius: 10px;
+    box-shadow: -7px -7px 17px #fff,
+    7px 7px 17px rgba(70,70,70,0.15);
+    border: 1px solid #f7f7f7;
+}
+.container{
+    margin-top: 10%;
+    background-color: white;
+}
